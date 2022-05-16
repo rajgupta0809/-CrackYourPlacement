@@ -1,3 +1,5 @@
+//method 1: brute force traverse with two for loops
+//method 2
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
